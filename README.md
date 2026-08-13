@@ -12,6 +12,7 @@ Por eso también estoy dentro de una fundación donde me capacitan para el futur
 cuento con el apoyo de mis padres y hermanos, también mi fe en que el día de mañana sea mejor, y si no lo es, me comprometo a seguir pensando así.
 
 ![foto Mia](./agustinSaavedra.png)
+esta foto la hice para el CV con IA cuando tenia el pelo largo, el promt lo saque en redes, usare esta foto para la formalidad.
 
 ### Mis gustos
 - tengo 2 perros y 2 tortugas, las tortugas viven desde que tengo memoria ni les pusimos nombres, al estar en invierno están por ahí hibernando dentro de casa calentitos.
