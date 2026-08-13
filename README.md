@@ -11,7 +11,7 @@ Estoy interesado en la rama de frontend lo que también me motivo a seguir estud
 Por eso también estoy dentro de una fundación donde me capacitan para el futuro laboral con la idea de mejorar, descubrir habilidades, trabajo en equipo y desarrollarme profesional como personalmente.
 cuento con el apoyo de mis padres y hermanos, también mi fe en que el día de mañana sea mejor, y si no lo es, me comprometo a seguir pensando así.
 
-![foto Mia](./fotoParaCV-parte2.png)
+![foto Mia](./agustinSaavedra.png)
 
 ### Mis gustos
 - tengo 2 perros y 2 tortugas, las tortugas viven desde que tengo memoria ni les pusimos nombres, al estar en invierno están por ahí hibernando dentro de casa calentitos.
